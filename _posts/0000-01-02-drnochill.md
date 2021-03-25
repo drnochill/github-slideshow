@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Do you have a dry cough?
 Use the left arrow to go back!
